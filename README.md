@@ -1,5 +1,7 @@
 # yii2-taggable v0.0.0 (initial commit)
 
+Forks from [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable) version 2.0.0.
+
 [![Latest Stable Version](https://poser.pugx.org/yongtiger/yii2-taggable/v/stable)](https://packagist.org/packages/yongtiger/yii2-taggable)
 [![Total Downloads](https://poser.pugx.org/yongtiger/yii2-taggable/downloads)](https://packagist.org/packages/yongtiger/yii2-taggable) 
 [![Latest Unstable Version](https://poser.pugx.org/yongtiger/yii2-taggable/v/unstable)](https://packagist.org/packages/yongtiger/yii2-taggable)
